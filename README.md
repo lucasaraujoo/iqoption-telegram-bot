@@ -11,7 +11,7 @@ Este é um robô de automação de sinais para a plataforma iqoption, com integr
 6. Opção Binária e Digital
 7. Logs
 8. Inserção de sinais em tempo de execução
-9. Uso de Thread para melhor otimização e presição nas entradas
+9. Uso de Thread para melhor otimização e precisão nas entradas
 
 ## Instalação
 Para instalar e começar a usar o robô, siga os seguintes passos:
