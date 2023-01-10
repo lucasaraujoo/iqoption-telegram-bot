@@ -1,0 +1,22 @@
+[GERAL]
+email = 
+senha = 
+entrada = 100
+conta = PRACTICE
+# PRACTICE / REAL 
+
+stop_win = 480
+stop_loss = 900
+
+martingale = S
+valorGale = 1.8
+sorosgale = N
+niveis = 1
+
+analisarTendencia = S
+noticias = S
+
+[telegram]
+telegram_token = 
+telegram_id = 
+usar_bot = N
