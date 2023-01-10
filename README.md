@@ -56,15 +56,16 @@ Este é um robô de automação de sinais para a plataforma iqoption, com integr
 ## Instalação
 Para instalar e começar a usar o robô, siga os seguintes passos:
 
-Clone o repositório para o seu computador: git clone https://github.com/username/iqoption-telegram-bot.git
+Clone o repositório para o seu computador.
 Entre na pasta do repositório: cd iqoption-telegram-bot
 Instale as dependências: pip install -r requirements.txt
 Crie um bot no Telegram usando o BotFather e anote o seu token de acesso
 Edite o arquivo `config.txt` na raiz do repositório e adicione as seguintes variáveis de ambiente:
 
-`TELEGRAM_TOKEN=seu_token
+```
+TELEGRAM_TOKEN=seu_token
 TELEGRAM_ID=seu_id
-`
+```
 
 Execute o robô: python AutoBot24h.py e Inclusor_Sinais.py
 
