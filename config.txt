@@ -1,5 +1,5 @@
 [GERAL]
-email = 
+email = denizgunyeli062@gmail.com
 senha = 
 entrada = 100
 conta = PRACTICE
@@ -17,6 +17,6 @@ analisarTendencia = S
 noticias = S
 
 [telegram]
-telegram_token = 
-telegram_id = 
+telegram_token = 8918198941:AAGA5cOfsN9ETKa-8aG56yJwS6cwi3RAFJo
+telegram_id = 5994037729
 usar_bot = N
